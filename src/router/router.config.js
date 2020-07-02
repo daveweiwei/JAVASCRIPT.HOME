@@ -1,4 +1,4 @@
-import { Layout } from '../components/layout/index'
+import { Layout } from '@/components/layout/index'
 
 
 const routes = [

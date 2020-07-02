@@ -1,5 +1,5 @@
 <template>
-  <div class="g-header">1</div>
+  <div>Header</div>
 </template>
 
 <script>

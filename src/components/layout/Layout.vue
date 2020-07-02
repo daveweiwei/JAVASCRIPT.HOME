@@ -1,11 +1,15 @@
 <template>
-  <div class="g-container">
-    <g-header></g-header>
-    <div class="g-main">
+  <el-container>
+    <el-header>
+      <g-header></g-header>
+    </el-header>
+    <el-main>
       <router-view></router-view>
-    </div>
-    <g-footer></g-footer>
-  </div>
+    </el-main>
+    <el-footer>
+      <g-footer></g-footer>
+    </el-footer>
+  </el-container>
 </template>
 
 <script>

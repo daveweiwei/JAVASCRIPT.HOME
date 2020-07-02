@@ -1,5 +1,5 @@
 <template>
-  <div class="g-footer">3</div>
+  <div>Footer</div>
 </template>
 
 <script>
