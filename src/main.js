@@ -4,6 +4,7 @@ import router from './router'
 
 import element from 'element-ui'
 import 'element-ui/lib/theme-chalk/index.css';
+import '@/style/reset.less'
 import '@/style/index.less'
 
 Vue.use(element)
