@@ -34,22 +34,17 @@ export default {
 }
 .g-header__left,
 .g-header__right {
-  // flex: 1;
   width: 250px;
 }
 .g-header__center {
-  // width: 960px;
-  // padding: 0 10px;
   flex: 1;
 }
 .g-header__left {
   display: flex;
   justify-content: flex-start;
   align-items: center;
-  // text-align: center;
 }
 .g-header__logo {
-  // flex: 1;
   margin-right: 10px;
 }
 .g-header__block {
